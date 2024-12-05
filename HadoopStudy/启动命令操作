@@ -4,3 +4,4 @@ Hadoop的启动
 3、./hadoop-3.4.0/sbin/start-all.sh
 或者cd hadoop-3.4.0/sbin
 ./start-all.sh
+在浏览器输入ip:9870(192.168.227.140:9870)
